@@ -1,0 +1,17 @@
+{
+  "title": "franchise",
+  "groupId":"net.slipp",
+  "artifactId":"franchise",
+
+  "modelPackage": "net.slipp.moim.models",
+  "apiPackage": "net.slipp.moim.apis",
+
+  "java8": true,
+  "useTags": true,
+  "useBeanValidation": true,
+  "interfaceOnly": true,
+  "defaultInterfaces": false,
+  "implicitHeaders": true,
+
+  "dateLibrary" : "java8-localdatetime"
+}

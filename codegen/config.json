@@ -1,10 +1,10 @@
 {
   "title": "franchise",
-  "groupId":"net.slipp",
+  "groupId":"me.doyoung.study",
   "artifactId":"franchise",
 
-  "modelPackage": "net.slipp.moim.models",
-  "apiPackage": "net.slipp.moim.apis",
+  "modelPackage": "me.doyoung.study.apifirstdesign.models",
+  "apiPackage": "me.doyoung.study.apifirstdesign.apis",
 
   "java8": true,
   "useTags": true,
